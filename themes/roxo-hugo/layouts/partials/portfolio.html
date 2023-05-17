@@ -11,6 +11,7 @@
         </div>
         {{ range first 4 (where $.Site.RegularPages "Type" "portfolio") }}
         <div class="col-lg-6 col-md-10 mx-auto">
+          <a href="{{ .Permalink }}" class="read-more">
           <div class="site-project-item">
             <div class="site-project-item-thumb">
               <img src="{{ .Params.Image | absURL }}" alt="project-thumb">
@@ -18,9 +19,10 @@
             <div class="site-project-item-content">
               <span>{{ delimit .Params.category ", " }}</span>
               <h3>{{ .Title }}</h3>
-              <a href="{{ .Permalink }}" class="read-more">view project</a>
+              <p class="read-more">Cambridge, MA</p>
             </div>
           </div>
+        </a>
         </div>
         {{ end }}
       </div>

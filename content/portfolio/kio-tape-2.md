@@ -1,8 +1,8 @@
 ---
-title: "A CAFE"
+title: "FARO CAFE"
 date: 2023-05-16T20:56:42+06:00
 type: portfolio
-image: "images/projects/haha.jpeg"
+image: "images/projects/faro.jpg"
 category: []
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
