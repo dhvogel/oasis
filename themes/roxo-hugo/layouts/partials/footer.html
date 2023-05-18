@@ -6,7 +6,7 @@
         <div class="site-footer-widget">
           <h5 class="site-footer-widget-title">{{ .title }}</h5>
           <p class="site-footer-widget-description">
-            <a href="mailto:{{ .email }}">{{ .email }}</a>
+            <a href="mailto:{{ .email }}" target="_blank">{{ .email }}</a>
           </p>
         </div>
       </div>
@@ -29,7 +29,7 @@
           <h5 class="site-footer-widget-title">{{ .title }}</h5>
           <ul class="site-footer-widget-links">
             {{ range .link }}
-              <li><a href="{{ .url }}">{{ .name }}</a></li>
+              <li><a href="{{ .url }}" target="_blank">{{ .name }}</a></li>
             {{ end }}
           </ul>
         </div>
