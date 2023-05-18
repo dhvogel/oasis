@@ -18,11 +18,15 @@
     padding: 15px;
   }
   .navbar-brand{
-    padding-bottom: 1rem;
-    margin: 0;
+    padding-top: 0;
     img{
       max-width: 180px;
+      @include mobile{
+        height: 50px;
+        width: auto;
+      }
     }
+
   }
   .nav-item{
     @include desktop{
