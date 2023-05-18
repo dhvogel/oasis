@@ -13,7 +13,7 @@ summarylength = 25
   #   weight  = 2
   [[menu.nav]]
     name    = "Buy tickets"
-    url     = "contact"
+    url     = "#"
     weight  = 5
 
 # Site Params
@@ -60,7 +60,7 @@ summarylength = 25
     primary_button        = "See Our Works"
     primary_button_url    = "portfolio"
     secondary_button      = "See a show!"
-    secondary_button_url  = "contact"
+    secondary_button_url  = "#"
 
   [params.portfolio]
     enable    = true
@@ -72,7 +72,7 @@ summarylength = 25
     background_image    = "images/backgrounds/cta-background.jpg"
     title               = "GET TICKETS"
     primary_button      = "Get Tickets"
-    primary_button_url  = "contact"
+    primary_button_url  = "#"
 
   [params.footer]
     # Footer Contact Info
