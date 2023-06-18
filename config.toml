@@ -12,7 +12,7 @@ summarylength = 25
   #   url     = "about"
   #   weight  = 2
   [[menu.nav]]
-    name    = "Buy Tickets"
+    name    = "BUY TICKETS"
     url     = "https://www.tickettailor.com/events/oasiscomedy/924131"
     weight  = 5
 
@@ -56,10 +56,10 @@ summarylength = 25
     enable                = true
     background_image      = "images/backgrounds/coffee-laugh.jpeg"
     tagline               = ""
-    heading               = "Live comedy in Boston"
+    heading               = "LIVE STAND-UP COMEDY IN BOSTON"
     primary_button        = "See Our Works"
     primary_button_url    = "portfolio"
-    secondary_button      = "See a show!"
+    secondary_button      = "SEE A SHOW!"
     secondary_button_url  = "#shows"
 
   [params.portfolio]
@@ -70,8 +70,8 @@ summarylength = 25
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "BUY TICKETS"
-    primary_button      = "Buy Tickets"
+    title               = "TICKETS"
+    primary_button      = "BUY TICKETS"
     primary_button_url  = "https://www.tickettailor.com/events/oasiscomedy/924131"
 
   [params.footer]

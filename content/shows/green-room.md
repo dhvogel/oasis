@@ -3,7 +3,7 @@ title: "THE GREEN ROOM"
 location: "Somerville"
 time: "June 30, 2023, 7-8PM"
 type: portfolio
-image: "images/projects/green-room.png"
+image: "images/projects/IMG_1191.jpeg"
 category: []
 project_images: []
 ---
