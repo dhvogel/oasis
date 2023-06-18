@@ -15,7 +15,7 @@ project_images: []
 
 <br />
 
-<p style="padding-top: 20px">Dan is a hopeless romantic who never went back after one day stumbling across a microphone in a bar. In addition to doing stand-up, Dan also enjoys telling people he does stand-up. The host of this show, Dan has been seen in venues around Boston such as the Middle East, Jacque's Cabaret, and The Jungle. </p>
+<p style="padding-top: 20px">Dan is a hopeless romantic who never went back after one day stumbling across a microphone in a bar. In addition to doing stand-up, Dan also enjoys telling people that he does stand-up. The host of this show, Dan has been seen in venues around Boston such as the Middle East, Jacque's Cabaret, and The Jungle. </p>
 
 ##### *Chris Sintetos*
 
