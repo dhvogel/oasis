@@ -12,8 +12,8 @@ summarylength = 25
   #   url     = "about"
   #   weight  = 2
   [[menu.nav]]
-    name    = "Buy tickets"
-    url     = "#"
+    name    = "Buy Tickets"
+    url     = "https://www.tickettailor.com/events/oasiscomedy/924131"
     weight  = 5
 
 # Site Params
@@ -60,7 +60,7 @@ summarylength = 25
     primary_button        = "See Our Works"
     primary_button_url    = "portfolio"
     secondary_button      = "See a show!"
-    secondary_button_url  = "localhost:1313#shows"
+    secondary_button_url  = "#shows"
 
   [params.portfolio]
     enable    = true
@@ -70,9 +70,9 @@ summarylength = 25
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "GET TICKETS"
-    primary_button      = "Get Tickets"
-    primary_button_url  = "#"
+    title               = "BUY TICKETS"
+    primary_button      = "Buy Tickets"
+    primary_button_url  = "https://www.tickettailor.com/events/oasiscomedy/924131"
 
   [params.footer]
     # Footer Contact Info
@@ -118,3 +118,8 @@ name = "oasis-comedy-site-deploy"
 # The Go Cloud Development Kit URL to deploy to. Examples:
 # GCS; see https://gocloud.dev/howto/blob/#gcs
 URL = "gs://oasis-comedy-site"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
