@@ -44,5 +44,5 @@ Tricia Thomson is a fiery Boston-based comedian that regularly performs at comed
 
 <img src="/images/tiny.png" style="border:8px solid #F65275; border-radius: 50%; height: 200px; padding: 5px"/>
 
-<p style="padding-top: 20px">
+<p style="padding-top: 20px; font-size:14px">
 Tiny can be seen regularly in Maine, New Hampshire, Rhode Island, Connecticut, Pennsylvania, and Arkansas, and is a veteran of the Portland Comedy Festival and the Vanyaland Comedy Festival. His home base is Boston where he has worked with Rosebud Baker, Myo Kaplan, Jenny Zagrino, Ben Roy, Casey Crawford, Eugene Mirman, and Eric Andre. Catch him everwhere from local dive bars to stages at the Hard Rock Cafe, Laugh Boston, and The Aura in Portland.</p>
